@@ -1,4 +1,4 @@
-# Sistemas-Embarcados
+![image](https://github.com/fdalvesco/Sistemas-Embarcados/assets/101358513/2ed3d129-bb46-49e5-8f1a-dfbf1602157b)# Sistemas-Embarcados
 Projeto da disciplina de Sistemas Embarcados do Curso de Sistemas de Informação
 
 RETIFICADOR 
@@ -9,3 +9,18 @@ O retificador é um componente eletrônico utilizado em circuitos para transform
 Simulação:
 
 ![image](https://github.com/fdalvesco/Sistemas-Embarcados/assets/101358513/d8d60762-b891-46af-a289-17bbc20a1353)
+
+
+Prototipagem:
+
+![image](https://github.com/fdalvesco/Sistemas-Embarcados/assets/101358513/25c3fb68-d461-4b0b-aa07-bfafab472c86)
+
+
+PCB:
+
+![image](https://github.com/fdalvesco/Sistemas-Embarcados/assets/101358513/f0ba9743-4267-427b-aa47-6b77c449a619)
+
+
+3D:
+
+![image](https://github.com/fdalvesco/Sistemas-Embarcados/assets/101358513/7e53b885-0294-428a-b0f0-3019e616b198)
