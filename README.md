@@ -1,4 +1,4 @@
-![image](https://github.com/fdalvesco/Sistemas-Embarcados/assets/101358513/2ed3d129-bb46-49e5-8f1a-dfbf1602157b)# Sistemas-Embarcados
+# Sistemas-Embarcados
 Projeto da disciplina de Sistemas Embarcados do Curso de Sistemas de Informação
 
 RETIFICADOR 
